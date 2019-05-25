@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+#red {
+  /* background-color: #16df42; */
+  background-image: url("./red.jpg");
+  padding:10rem;
+}
+#seethrough {
+  color: rgba(152, 160, 177, 0.472);
+  font-size: 4rem;
+}
