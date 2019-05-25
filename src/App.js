@@ -29,16 +29,10 @@ class App extends Component {
           </a>
         </header>
         <div>
-          <div>
-            <p>Part 2</p>
-            <img src={red}/>
-          </div>
-        </div>
-        <div>
-        <p>Part 3</p>
+        <p>Part 2</p>
           <div id="red">
             <div>
-              <p id="seethrough">Transluscent Text</p>
+              <p id="seethrough">Maja</p>
             </div>
           </div>
         </div>
